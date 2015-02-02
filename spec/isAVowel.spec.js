@@ -2,11 +2,6 @@
 
 describe('isAVowel', function() {
 
-  var isAVowel;
-  beforeEach(function() {
-    isAVowel = require('../lib/isAVowel');
-  });
-
   describe('Your first test', function() {
 
     it('knows that "a" is a vowel', function(){
