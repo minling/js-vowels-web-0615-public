@@ -1,8 +1,3 @@
----
-languages: javascript
-tags: conditionals
----
-
 # Find a vowel!
 
 ![picture of vowels](https://s3-us-west-2.amazonaws.com/web-dev-readme-photos/js-vowels/vowels.jpg)
